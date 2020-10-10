@@ -1,4 +1,4 @@
-`#!/usr/bin/env python
+#!/usr/bin/env python
 
 import time
 start = time.time()
@@ -21,4 +21,3 @@ def find_largest_prime_factor(num):
 
 print(find_largest_prime_factor(600851475143))
 print("runtime:", time.time()-start)
-`
