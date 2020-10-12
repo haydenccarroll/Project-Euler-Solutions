@@ -7,4 +7,4 @@
  against the euler spirit otherwise.
 
 ## Don't know what I am talking about?
- Visit https://projecteuler.net/archives for more information
+ Visit https://projecteuler.net/archives for more information.
